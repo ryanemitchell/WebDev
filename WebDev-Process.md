@@ -19,9 +19,12 @@ Plugins
 
 ACF Additions
 
-* [ACF Cleaner] (https://github.com/1n3JgKl9pQ6cUMrW/acf-cleaner)
+* [ACF Cleaner](https://github.com/1n3JgKl9pQ6cUMrW/acf-cleaner)
 * [Redvolver acf Cleaner](https://github.com/filippozanardo/redvolver-acfcleaner)
-* [ACF Local JSON Manager] (https://github.com/khromov/acf-local-json-manager)
+* [ACF Local JSON Manager](https://github.com/khromov/acf-local-json-manager)
+* [Activity Log](https://wordpress.org/plugins/aryo-activity-log/)
+* [Better Search Replace](https://wordpress.org/plugins/better-search-replace/)
+*[SSL Insecure Content Fixer](https://wordpress.org/plugins/ssl-insecure-content-fixer/)
 
 
 
