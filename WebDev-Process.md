@@ -15,6 +15,8 @@ Frameworks and Starter Themes
 
 * [FoundationPress](https://github.com/olefredrik/FoundationPress)
 
+*[Menu Walker for Foundaiton 6](https://wlcdesigns.com/2015/11/foundation-6-menu-walker-class-for-wordpress/)
+
 
 Plugins
 
