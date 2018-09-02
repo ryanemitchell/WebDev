@@ -4,6 +4,9 @@ My notes on process and favorite tools.
 ## Frameworks and Libraries
 
 
+## Gutenberg 
+
+*[gutenberg-migration-guide](https://github.com/danielbachhuber/gutenberg-migration-guide)
 
 
 ## WordPress Related Projects
@@ -26,7 +29,9 @@ ACF Additions
 * [Better Search Replace](https://wordpress.org/plugins/better-search-replace/)
 *[SSL Insecure Content Fixer](https://wordpress.org/plugins/ssl-insecure-content-fixer/)
 
+Security
 
+*[Limit Login Attempts Reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/)
 
 
 Some additional interesting plugins 
