@@ -39,3 +39,6 @@ Security
 Some additional interesting plugins 
 
 * [Dark Mode](https://wordpress.org/plugins/dark-mode/)
+
+Online Tools
+* CSS Filter generator  - to target color. https://codepen.io/RMitchellMedia/pen/rXzOmP
